@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\smith\\source\\repos\\SpaceGame\\code\\SpaceGame\\Character\\Character.csproj": {}
+    "C:\\Users\\goric\\Source\\Repos\\SpaceGame\\code\\SpaceGame\\Character\\Character.csproj": {}
   },
   "projects": {
-    "C:\\Users\\smith\\source\\repos\\SpaceGame\\code\\SpaceGame\\Character\\Character.csproj": {
+    "C:\\Users\\goric\\Source\\Repos\\SpaceGame\\code\\SpaceGame\\Character\\Character.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\smith\\source\\repos\\SpaceGame\\code\\SpaceGame\\Character\\Character.csproj",
+        "projectUniqueName": "C:\\Users\\goric\\Source\\Repos\\SpaceGame\\code\\SpaceGame\\Character\\Character.csproj",
         "projectName": "Character",
-        "projectPath": "C:\\Users\\smith\\source\\repos\\SpaceGame\\code\\SpaceGame\\Character\\Character.csproj",
-        "packagesPath": "C:\\Users\\smith\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\smith\\source\\repos\\SpaceGame\\code\\SpaceGame\\Character\\obj\\",
+        "projectPath": "C:\\Users\\goric\\Source\\Repos\\SpaceGame\\code\\SpaceGame\\Character\\Character.csproj",
+        "packagesPath": "C:\\Users\\goric\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\goric\\Source\\Repos\\SpaceGame\\code\\SpaceGame\\Character\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\smith\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\goric\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

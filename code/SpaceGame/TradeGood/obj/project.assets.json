@@ -8,23 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\smith\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\goric\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\smith\\source\\repos\\SpaceGame\\code\\SpaceGame\\TradeGood\\TradeGood.csproj",
+      "projectUniqueName": "C:\\Users\\goric\\Source\\Repos\\SpaceGame\\code\\SpaceGame\\TradeGood\\TradeGood.csproj",
       "projectName": "TradeGood",
-      "projectPath": "C:\\Users\\smith\\source\\repos\\SpaceGame\\code\\SpaceGame\\TradeGood\\TradeGood.csproj",
-      "packagesPath": "C:\\Users\\smith\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\smith\\source\\repos\\SpaceGame\\code\\SpaceGame\\TradeGood\\obj\\",
+      "projectPath": "C:\\Users\\goric\\Source\\Repos\\SpaceGame\\code\\SpaceGame\\TradeGood\\TradeGood.csproj",
+      "packagesPath": "C:\\Users\\goric\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\goric\\Source\\Repos\\SpaceGame\\code\\SpaceGame\\TradeGood\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\smith\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\goric\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
